@@ -1,9 +1,9 @@
 <?php
-$host = 'mysql.ct8.pl';
+$host = '';
   
-$dbname = 'm30647_roblox2010DB';
+$dbname = '';
   
-$username = 'm30647_roblox10';
+$username = '';
   
-$password = 'BQ38mwZpAnK3Zg';
+$password = '';
 ?>
